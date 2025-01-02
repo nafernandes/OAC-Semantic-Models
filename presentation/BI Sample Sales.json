@@ -1,0 +1,16 @@
+{
+  "subjectArea" : {
+    "name" : "BI Sample Sales",
+    "description" : "Subject Area for Schema BISAMPLE",
+    "sourceBusinessModel" : "businessModel:BISAMPLE BM",
+    "tableOrder" : [ {
+      "name" : "presentationTable:BI Sample Sales.Time"
+    }, {
+      "name" : "presentationTable:BI Sample Sales.Products"
+    }, {
+      "name" : "presentationTable:BI Sample Sales.Customers"
+    }, {
+      "name" : "presentationTable:BI Sample Sales.Base Facts"
+    } ]
+  }
+}

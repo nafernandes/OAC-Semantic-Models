@@ -1,0 +1,24 @@
+{
+  "presentationTable" : {
+    "name" : "Time",
+    "presentationColumns" : [ {
+      "name" : "CALENDAR_DATE",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D1 Time.CALENDAR_DATE"
+    }, {
+      "name" : "PER_NAME_HALF",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D1 Time.PER_NAME_HALF"
+    }, {
+      "name" : "PER_NAME_MONTH",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D1 Time.PER_NAME_MONTH"
+    }, {
+      "name" : "PER_NAME_QTR",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D1 Time.PER_NAME_QTR"
+    }, {
+      "name" : "PER_NAME_WEEK",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D1 Time.PER_NAME_WEEK"
+    }, {
+      "name" : "PER_NAME_YEAR",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D1 Time.PER_NAME_YEAR"
+    } ]
+  }
+}

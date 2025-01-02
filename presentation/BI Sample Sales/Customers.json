@@ -1,0 +1,12 @@
+{
+  "presentationTable" : {
+    "name" : "Customers",
+    "presentationColumns" : [ {
+      "name" : "CUST_KEY",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D3 Customers.CUST_KEY"
+    }, {
+      "name" : "NAME",
+      "sourceLogicalColumn" : "logicalColumn:BISAMPLE BM.D3 Customers.NAME"
+    } ]
+  }
+}

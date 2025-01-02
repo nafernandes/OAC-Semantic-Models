@@ -1,0 +1,7 @@
+{
+  "businessModel" : {
+    "name" : "BISAMPLE BM",
+    "description" : "Logical Model for BISAMPLE",
+    "disable" : false
+  }
+}

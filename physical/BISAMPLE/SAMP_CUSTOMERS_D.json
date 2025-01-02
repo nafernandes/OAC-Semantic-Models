@@ -1,6 +1,7 @@
 {
   "physicalTable" : {
     "name" : "SAMP_CUSTOMERS_D",
+    "description" : "1/1/25 - Updated Caching Settings",
     "sourceType" : "TABLE",
     "physicalColumns" : [ {
       "name" : "CUST_KEY",
@@ -94,8 +95,9 @@
       "nullable" : true
     } ],
     "caching" : {
-      "enable" : true,
-      "expiryTime" : 0
+      "enable" : false,
+      "expiryTime" : 0,
+      "expiryUnit" : "DAYS"
     }
   }
 }

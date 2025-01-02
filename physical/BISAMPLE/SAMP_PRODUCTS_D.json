@@ -1,6 +1,7 @@
 {
   "physicalTable" : {
     "name" : "SAMP_PRODUCTS_D",
+    "description" : "1/2/25 - Updated Description for Sample Products to ensure capture in GIT repository",
     "sourceType" : "TABLE",
     "physicalColumns" : [ {
       "name" : "PROD_KEY",
